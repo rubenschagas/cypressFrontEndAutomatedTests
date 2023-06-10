@@ -22,7 +22,7 @@ export function createOptions(): CliOptions {
         })
         .option('site', {
             alias: 's',
-            describe: 'A site to be opened. E.G.: roadmap.sh',
+            describe: 'A site to be opened. E.G.: https://roadmap.sh/',
             type: 'string',
             default: 'https://roadmap.sh/',
             demandOption: false,
