@@ -36,7 +36,7 @@ export function createOptions(): CliOptions {
         })
         .option('text', {
             alias: 't',
-            describe: 'A text to be searched on page. E.G.: cypress',
+            describe: 'A text to be searched on page. E.G.: Cypress',
             type: 'string',
             default: 'Cypress',
             demandOption: false,
