@@ -112,7 +112,8 @@ ts-node e2e_cli.ts --script command -s roadmap -c qa -t cypress
 ```
 > ts-node e2e_cli.ts --help
 
-Usage: ts-node e2e_cli.ts [--script command] [-s roadmap.sh] [-t cypress]
+Usage: ts-node e2e_cli.ts [--script command] [-s https://roadmap.sh/] [-t
+Cypress]
 
 Options:
       --help     Show help                                             [boolean]
@@ -122,7 +123,7 @@ Options:
   -s, --site     A site to be opened. E.G.: roadmap.sh
                                        [string] [default: "https://roadmap.sh/"]
   -e, --element  An element to br clicked. E.G.: QA     [string] [default: "QA"]
-  -t, --text     A text to be searched on page. E.G.: cypress
+  -t, --text     A text to be searched on page. E.G.: Cypress
                                                    [string] [default: "Cypress"]
       --output   Console output type.
                                     [choices: "full", "plain"] [default: "full"]
