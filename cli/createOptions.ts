@@ -11,7 +11,7 @@ export interface CliOptions {
 export function createOptions(): CliOptions {
     return yargs
         .usage(
-            'Usage: ts-node e2e_cli.ts [--script command] [-s roadmap.sh] [-t cypress]'
+            'Usage: ts-node e2e_cli.ts [--script command] [-s https://roadmap.sh/] [-t Cypress]'
         )
         .env('CYPRESSE2E')
         .option('script', {
