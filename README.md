@@ -1,4 +1,4 @@
-# ROADMAP E2E AUTOMATED TESTS
+# CYPRESS FRONT END AUTOMATED TESTS
 
 ![](./assets/readMeMd/e2e.feature.gif)
 
