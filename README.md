@@ -1,5 +1,7 @@
 # ROADMAP E2E AUTOMATED TESTS
 
+![](./assets/readMeMd/e2e.feature.gif)
+
 ## TABLE OF CONTENTS
 
 [OVERVIEW](#overview)
