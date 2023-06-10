@@ -131,7 +131,7 @@ Options:
 
 ## REPORT
 
-After running the <i>command</i> script, a folder named ´.tmp/report´ will dynamically be created in the project folder, which contains a `index.hmtl` report file, as follows:
+After running the <i>command</i> script, a folder named `.tmp/report` will dynamically be created in the project folder, which contains a `index.hmtl` report file, as follows:
 
 ![](./assets/readMeMd/reportDashboard1.png)
 
