@@ -16,7 +16,7 @@
 
 ## OVERVIEW
 
-The objective of this README.md document file is to provide help on how to install, update and run the automated tests on a Cypress E2E Front End Automated Test project.
+The objective of this README.md document file is to provide help on how to install, update and run the automated tests on a Cypress E2E Front End Automated Test project, as a Proof of Concept (POC).
 
 It has a Command Line Interface (CLI) helping a user or a pipeline cloud to inform elements and texts to be interacted with on a site.
 
