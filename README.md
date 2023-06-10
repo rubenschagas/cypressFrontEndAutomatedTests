@@ -120,7 +120,7 @@ Options:
       --version  Show version number                                   [boolean]
       --script   NPM script to be executed. E.G.: command|cy
                                                    [string] [default: "command"]
-  -s, --site     A site to be opened. E.G.: roadmap.sh
+  -s, --site     A site to be opened. E.G.: https://roadmap.sh/
                                        [string] [default: "https://roadmap.sh/"]
   -e, --element  An element to br clicked. E.G.: QA     [string] [default: "QA"]
   -t, --text     A text to be searched on page. E.G.: Cypress
