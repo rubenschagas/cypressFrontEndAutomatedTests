@@ -1,6 +1,6 @@
 # CYPRESS FRONT END AUTOMATED TESTS
 
-![](./assets/readMeMd/e2e.feature.gif)
+![](./assets/readMeMd/e2eFeature.gif)
 
 ## TABLE OF CONTENTS
 
