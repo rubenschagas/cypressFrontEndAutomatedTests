@@ -9,6 +9,6 @@ When('I click on a link', () => {
     e2ePage.clickOnALink();
 });
 
-Then('I text should be fond on the page', () => {
+Then('I text should be found on the page', () => {
     e2ePage.assertAText();
 });
